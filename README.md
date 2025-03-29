@@ -1,7 +1,7 @@
 
 # 🧠💡 **Java Exercises – Preparação para o Backend!**  
 
-🎯 **Objetivo:** Este repositório contém uma coleção de **exercícios de lógica em Java** 🏗️, desenvolvidos durante o **primeiro semestre da disciplina de Front-End**. O foco é reforçar a **raciocínio lógico** e a **programação orientada a objetos** (OOP), para preparar melhor para o **backend** e desafios com **Java** no futuro! 💻☕  
+🎯 **Objetivo:** Este repositório contém uma coleção de **exercícios de lógica em Java** 🏗️, desenvolvidos durante o **primeiro semestre da disciplina de Lógica**. O foco é reforçar a **raciocínio lógico** e a **programação orientada a objetos** (OOP), para preparar melhor para o **backend** e desafios com **Java** no futuro! 💻☕  
 
 ## 🚀 **O que você vai encontrar aqui?**  
 ✅ Estruturas de Controle e Loops 🔄  
